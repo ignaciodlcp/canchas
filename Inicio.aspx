@@ -26,6 +26,9 @@
                         <asp:Label ID="lbusuario" runat="server" Text="Usuario"></asp:Label>
                         <asp:TextBox ID="txtusuario" CssClass="form-control" runat="server" placeholder="NOMBRE DE USUARIO"></asp:TextBox>
                     </div>
+                    <h1>mario klo funciona porfavor
+                        si no te voy a sacar la ctm tay vio
+                    </h1>
 
 
                     <div>
